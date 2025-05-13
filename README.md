@@ -1,7 +1,7 @@
 # 🎯 Dashboard de Análise da Mega-Sena com Power BI
 
 Este projeto é um painel interativo criado no Power BI para explorar os resultados da Mega-Sena.
-Utilizei dados públicos da Caixa Econômica Federal, permitindo ao usuário analisar diferentes concursos, histórico de sorteios, padrões estatísticos e obter insights relevantes. 
+Utilizei dados públicos da Caixa Econômica Federal, permitindo ao usuário analisar diferentes concursos, histórico de sorteios, padrões estatísticos e obter insights relevantes.
 ---
 
 ## 📊 Funcionalidades do Dashboard
