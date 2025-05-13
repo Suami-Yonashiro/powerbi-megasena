@@ -1,4 +1,4 @@
-# 🎯 Dashboard de Análise da Mega-Sena com Power BI
+# 🎯 Dashboard: Análise Estratégica. Mega-Sena com Power BI
 
 Estudo, manipulação, análise de dados, aplicação de ferramentas em um tema de interesse em nível nacional.
 Este projeto é um painel interativo criado no Power BI para explorar os resultados da Mega-Sena.
