@@ -46,7 +46,7 @@ Utilizei dados públicos da Caixa Econômica Federal, permitindo ao usuário ana
 
 ## 🖼️ Imagens do Dashboard
 
-![Dashboard](imagem/dashboard-megasena.jpg)
+![Dashboard](dashboard-megasena.jpg)
 ---
 
 ## 📌 Autor
