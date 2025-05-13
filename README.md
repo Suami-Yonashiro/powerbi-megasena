@@ -48,12 +48,10 @@ Utilizei dados públicos da Caixa Econômica Federal, permitindo ao usuário ana
 ![Dashboard](dashboard-megasena.jpg)
 ---
 
-
 # 📌 Autor
 
 (https://www.linkedin.com/in/suami-yonashiro)
 ---
-
 
 # 📥 Como baixar e usar
 
@@ -61,7 +59,6 @@ Utilizei dados públicos da Caixa Econômica Federal, permitindo ao usuário ana
 2. Abra no Power BI Desktop
 3. Clique em “Atualizar” para carregar os dados mais recentes
 ---
-
 
 # 📜 Licença
 
