@@ -2,6 +2,7 @@
 
 Com a proposta de construir um portfólio fundamentado em dados e voltado à tomada de decisões estratégicas, este projeto foi pensado para unir **lógica, análise e visão de negócio em um único tema**.
 A escolha da Mega-Sena foi pelo seu teor lúdico, que desperta curiosidade - mesmo entre quem está fora do contexto de dados - permitindo ilustrar com uma **base pública, como é possível identificar padrões, construir regras, adaptar soluções** e comunicar com clareza.
+
 ---
 
 # 📊 Funcionalidades do Dashboard
