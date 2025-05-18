@@ -1,9 +1,7 @@
-# 🎯 Dashboard: Análise Estratégica. Mega-Sena com Power BI
+# 🎯 Dashboard: Inteligência Analítica com Power BI. Mega-Sena.
 
-Estudo, manipulação, análise de dados, aplicação de ferramentas em um tema de interesse em nível nacional.
-Este projeto é um painel interativo criado no Power BI para explorar os resultados da Mega-Sena.
-Utilizei dados públicos da Caixa Econômica Federal, permitindo ao usuário analisar diferentes concursos, histórico de sorteios, padrões estatísticos e obter insights relevantes.
-
+Com a proposta de construir um portfólio fundamentado em dados e voltado à tomada de decisões estratégicas, este projeto foi pensado para unir **lógica, análise e visão de negócio em um único tema**.
+A escolha da Mega-Sena foi pelo seu teor lúdico, que desperta curiosidade - mesmo entre quem está fora do contexto de dados - permitindo ilustrar com uma **base pública, como é possível identificar padrões, construir regras, adaptar soluções** e comunicar com clareza.
 ---
 
 # 📊 Funcionalidades do Dashboard
